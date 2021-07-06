@@ -151,7 +151,7 @@ body{
 .find h2{
     padding-right: 20%;
     text-align: center;
-    color: gray;
+    color:orange;
     font-weight: 500;
     margin-bottom: 40px;
 }
@@ -181,7 +181,7 @@ body{
 }
 form h2{
     text-align: center;
-    color: gray;
+    color: orange;
     font-weight: 500;
     margin-bottom: 40px;
 }
@@ -227,6 +227,5 @@ footer h1{
 }
 footer p{
     font-weight: 300;
-    color: pink;
 }
 /* footer section end */
